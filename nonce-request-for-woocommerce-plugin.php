@@ -13,8 +13,8 @@
  * Plugin Name:       Nonce Request for Woocommerce Plugin
  * Description:       Generate WP nonce using woocommerce AUTH (tested on Woocommerce v.7.0.1)
  * Version:           1.0.0
- * Author:            Marknel Pineda
- * Author URI:        https://www.linkedin.com/in/marknelpineda/
+ * Author:            Ecommerceado
+ * Author URI:        https://www.facebook.com/ecommerceado
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
  * Text Domain:       nonce-request-for-woocommerce-plugin
